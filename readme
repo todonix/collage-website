@@ -1,0 +1,39 @@
+🎓 GP Nanakpur College - Official Website Redesign
+HTML5CSS3JavaScript
+
+A modern, responsive website design for Government Polytechnic Nanakpur.
+
+🌐 Live Project
+Original Website: https://gpnanakpur.ac.in/
+
+This project is a redesigned concept to improve the UI/UX and user experience for the college.
+
+📝 About The Project
+This is a fully responsive landing page created using HTML, CSS, and JavaScript. The main purpose of this project is to provide a clean, modern, and fast interface for students and staff.
+
+It includes sections for:
+
+Hero Section with quick stats
+Academic Programs (Tabs)
+Campus Life & Infrastructure
+Latest News & Events
+Contact Form
+✨ Features
+Responsive Design: Works perfectly on mobile, tablet, and desktop.
+Modern UI: Dark theme with smooth animations and gradient effects.
+Interactive Tabs: Programs section updates dynamically using JavaScript.
+Fast Loading: Pure HTML/CSS/JS with no heavy frameworks.
+🚀 How to Run
+Clone the repository:
+git clone https://github.com/your-username/your-repo-name.git
+Open index.html:Just double-click the index.html file to view it in your browser.
+🔗 Useful Links
+College Website: https://gpnanakpur.ac.in/
+College Address: haryana panchkula- 134102
+🤝 Contributing
+Feel free to fork this repository and make improvements. Pull requests are welcome!
+
+📜 License
+This project is open source and available under the MIT License.
+
+⭐️ If you like this design, give it a Star! ⭐️
